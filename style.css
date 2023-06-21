@@ -23,3 +23,11 @@ body{
 section{color: #000000;
 display:flex;
 }
+.principal{
+    background-image: url("Background.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.container{
+    height: 100vh;
+}
