@@ -17,11 +17,6 @@ body{
 *{
     margin:0;
     padding:0;
-
-}
-
-section{color: #000000;
-display:flex;
 }
 .principal{
     background-image: url("Background.png");
@@ -31,3 +26,4 @@ display:flex;
 .container{
     height: 100vh;
 }
+
